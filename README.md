@@ -30,5 +30,5 @@ Let’s collaborate to turn data into actionable insights!
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah999/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/abdullah999/) 
 
