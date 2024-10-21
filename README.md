@@ -1,8 +1,10 @@
 # Hi there, I'm Md Shafiul Alam Abdullah 👋
-
+Business Analytics | Product Management | Data Visualization
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
 
-I’m a passionate [Your Role/Title] from [Your Location]. I love to explore new technologies, build cool projects, and collaborate with other developers.
+Master of Business Analytics student at La Trobe University, passionate about leveraging data to drive informed decision-making. With experience in product management, business sales, and analytics, I specialize in digital product development, data visualization (Tableau, Power BI), and cloud-based solutions. Skilled in handling large datasets, developing insightful dashboards, and applying analytics for real-world business challenges.
+
+Let’s collaborate to turn data into actionable insights!
 
 ## 👨‍💻 About Me
 
@@ -28,5 +30,5 @@ I’m a passionate [Your Role/Title] from [Your Location]. I love to explore new
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile) [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/your-twitter-handle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah999/) 
 
