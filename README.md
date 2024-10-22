@@ -8,10 +8,10 @@ Let’s collaborate to turn data into actionable insights!
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **[Technology you're learning]**
+- 🌱 I’m currently learning **Cloud Computing & Application of AWS in businesses**
 - 📫 How to reach me: **abdullah.ewu141@gmail.com**
 - 💬 Ask me about anything you want. **Cause AI can empower anyone who wants to be**.
-- ⚡ Fun fact: I’m a certified barista, and I love brewing the perfect cup of coffee while works with digital products and business analytics!
+- ⚡ Fun fact: I’m a certified barista, and I love brewing the perfect cup of coffee while works with digital products and business analytics! :D
 
 ## 🛠️ Tech Stack
 
