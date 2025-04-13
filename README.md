@@ -15,7 +15,7 @@ Let’s collaborate to turn data into actionable insights!
 
 ## 🛠️ Tech Stack
 
-Let's talk about Business Stack!!
+Let's talk about Tech Driven Business Stack!!
 
 
 ## 📫 Connect with Me
